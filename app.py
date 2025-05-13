@@ -52,3 +52,4 @@ def homepage():
         }
     </style>
     """, unsafe_allow_html=True)
+st.markdown('<div class="info-box">', unsafe_allow_html=True)
